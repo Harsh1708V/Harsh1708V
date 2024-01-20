@@ -1,3 +1,4 @@
+![logo](https://github.com/Harsh1708V/Harsh1708V/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Harsh Waibhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
