@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_vaibhav_3" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_vaibhav_3?logo=twitter&style=for-the-badge" alt="harsh_vaibhav_3" /></a> </p>
 
-- 🌱 I’m currently learning **React JS , Node JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 📫 How to reach me **harshwaibhav69@gmail.com**
 
