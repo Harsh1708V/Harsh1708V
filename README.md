@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsh Waibhav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from Delhi</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95285bg0qj762kyiwl1i0ryw0pnpgr5ul9mvdbogp42&ep=v1_internal_gif_by_id&rid=giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1708v&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1708v" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harsh_vaibhav_3" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_vaibhav_3?logo=twitter&style=for-the-badge" alt="harsh_vaibhav_3" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **harshwaibhav69@gmail.com**
 
