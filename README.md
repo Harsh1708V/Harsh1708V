@@ -1,29 +1,67 @@
-<h1 align="center">Hi 👋, I'm Harsh Waibhav</h1>
-<h3 align="center">A passionate software developer from Delhi</h3>
+<img src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95285bg0qj762kyiwl1i0ryw0pnpgr5ul9mvdbogp42&ep=v1_internal_gif_by_id&rid=giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1708v&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1708v" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harsh_vaibhav_3" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_vaibhav_3?logo=twitter&style=for-the-badge" alt="harsh_vaibhav_3" /></a> </p>
+<h1> Hey there! I'm Harsh Waibhav.</h1>  
+ 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+- 🎓 &nbsp; Studying Computer Science and Engineering at Abdul Kalam Technical University.
 
-- 📫 How to reach me **harshwaibhav69@gmail.com**
+<h3> 🛠 &nbsp;Tech Stack</h3>  
 
-- ⚡ Fun fact **Just A Funny Guy 😁**
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+  
+- 🌐 &nbsp;
+  ![React/React Native](https://img.shields.io/badge/-React/ReactNative-333333?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Laravel](https://img.shields.io/badge/-.Laravel-333333?style=flat&logo=laravel)
+  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
+  
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
+  ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio&logoColor=2C2255)
+  
+- 🖥 &nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Adobe_After_Effects](https://img.shields.io/badge/-AdobeAfterEffects-333333?style=flat&logo=adobeaftereffects)
+  
+- 📜 &nbsp;
+  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
+  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
+  ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harsh_vaibhav_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh_vaibhav_3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshwaibhav1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshwaibhav1708" height="30" width="40" /></a>
-<a href="https://instagram.com/ha.rshh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ha.rshh__" height="30" width="40" /></a>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+<p align="center">
+<!-- <a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.instagram.com/name.hrshh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rgautam320-blue?style=flat-square&logo=instagram"></a>
+<a href="https://x.com/Harsh_vaibhav_3/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rgautam320-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/harshwaibhav1708/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rgautam320-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:harshwaibhav69@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rgautam320-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh1708v&show_icons=true&locale=en&layout=compact" alt="harsh1708v" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh1708v&show_icons=true&locale=en" alt="harsh1708v" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh1708v&" alt="harsh1708v" /></p>
