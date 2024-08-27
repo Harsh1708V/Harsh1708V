@@ -59,8 +59,8 @@
 
 <p align="center">
 <!-- <a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.instagram.com/name.hrshh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-HarshWaibhav-blue?style=flat-square&logo=instagram"></a>
-<a href="https://x.com/Harsh_vaibhav_3/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-HarshWaibhav-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/harshwaibhav1708/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harshwaibhav-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:harshwaibhav69@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-HarshWaibhav-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/name.hrshh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Harsh_Waibhav-blue?style=flat-square&logo=instagram"></a>
+<a href="https://x.com/Harsh_vaibhav_3/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Harsh_Waibhav-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/harshwaibhav1708/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh_waibhav-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:harshwaibhav69@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Harsh_Waibhav-blue?style=flat-square&logo=gmail"></a>
 </p>
