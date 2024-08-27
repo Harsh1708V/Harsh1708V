@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions. 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Abdul Kalam Technical University.
+- 🎓 &nbsp; Pursuing B.Tech in Computer Science and Engineering (AI) at Abdul Kalam Technical University.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>  
 
