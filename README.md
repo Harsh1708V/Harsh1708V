@@ -44,16 +44,7 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
   ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio&logoColor=2C2255)
-  
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Adobe_After_Effects](https://img.shields.io/badge/-AdobeAfterEffects-333333?style=flat&logo=adobeaftereffects)
-  
-- 📜 &nbsp;
-  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
-  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-  ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
