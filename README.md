@@ -16,21 +16,17 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   
 - 🌐 &nbsp;
   ![React/React Native](https://img.shields.io/badge/-React/ReactNative-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Laravel](https://img.shields.io/badge/-.Laravel-333333?style=flat&logo=laravel)
   ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 - ⚙️ &nbsp;
