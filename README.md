@@ -1,53 +1,62 @@
-<img src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1708v&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1708v" /> </p>
+# 💫 About Me:
 
-<h1> Hey there! I'm Harsh Waibhav.</h1>  
- 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+🚀 Passionate about building seamless, user-focused applications  
+📱 Skilled in web and mobile app development with Dart and MERN stack  
+💡 Skilled in integrating real-time messaging, AI chatbots, and secure systems    
+🌐 Check out my portfolio: [Portfolio](https://harsh-portfolio17.vercel.app/)  
+🌱 Constantly exploring web3 technologies  
+💬 Ask me about web development, Python, or Android  
+⚡ Fun fact: I can code, debug, and game—all in one sitting!
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions. 
-- 🎓 &nbsp; Pursuing B.Tech in Computer Science and Engineering (AI) at Abdul Kalam Technical University.
+## 🌐 Socials:
 
-<h3> 🛠 &nbsp;Tech Stack</h3>  
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  
-- 🌐 &nbsp;
-  ![React/React Native](https://img.shields.io/badge/-React/ReactNative-333333?style=flat&logo=react)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
-  ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio&logoColor=2C2255)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ha.rshh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshwaibhav1708) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Harsh1708V)
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+# 💻 Tech Stack:
 
-<p align="center">
-<!-- <a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.instagram.com/name.hrshh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Harsh_Waibhav-blue?style=flat-square&logo=instagram"></a>
-<a href="https://x.com/Harsh_vaibhav_3/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Harsh_Waibhav-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/harshwaibhav1708/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh_waibhav-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:harshwaibhav69@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Harsh_Waibhav-blue?style=flat-square&logo=gmail"></a>
-</p>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Harsh1708V&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh1708V&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1708V&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Harsh1708V&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Harsh1708V&style=flat-square&color=brightgreen)](https://komarev.com/ghpvc/?username=Harsh1708V)
