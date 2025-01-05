@@ -4,7 +4,7 @@
 
 🚀 Passionate about building seamless, user-focused applications  
 📱 Skilled in web and mobile app development with Dart and MERN stack  
-💡 Skilled in integrating real-time messaging, AI chatbots, and secure systems    
+💡 Skilled in integrating real-time messaging, AI chatbots systems    
 🌐 Check out my portfolio: [Portfolio](https://harsh-portfolio17.vercel.app/)  
 🌱 Constantly exploring web3 technologies  
 💬 Ask me about web development, Python, or Android  
